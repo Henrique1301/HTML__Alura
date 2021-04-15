@@ -29,10 +29,28 @@ nav a{
 }
 
 .produtos{
-    width: 940;
+    width: 940px;
     margin: 0 auto;
+    padding: 50px 0 ;
 }
 
 .produtos li {
     display: inline-block;
+    text-align: center;
+    width: 33%;
+    vertical-align: 30px;    
+}
+
+.produtos h2{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.produtos_descricao{
+    font-size: 18px;
+}
+
+.produtos_preco{
+    font-size: 22px;
+    font-weight: bold;
 }
